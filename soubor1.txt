@@ -1,4 +1,4 @@
 1. /bookstore/book[@category='web']
-2. /bookstore/book[price > 35]/(title | price)
+2. /bookstore/book[price > 35]/(title | price), změna kvuli tagu
 
 
